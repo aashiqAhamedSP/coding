@@ -1,0 +1,3 @@
+sample practice push
+pull and remote addition
+using git command line utility in kodekloud lab with centos linux OS VM
